@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Karl Vestklev",
+    "title": "Owner / Creative Director",
+    "previewImage": "../images/Profilbild_orange.png",
+    "email": "karl@studiomint.se",
+    "phone": "0702 97 54 93"
+  },
+  {
+    "id": 2,
+    "name": "Firstname Lastname",
+    "title": "title",
+    "previewImage": "../images/Profilbild_yellow.jpg",
+    "email": "Email@studiomint.se",
+    "phone": "0709 999 55 55"
+  },
+  {
+    "id": 3,
+    "name": "Firstname Lastname",
+    "title": "title",
+    "previewImage": "../images/Profilbild_blue.png",
+    "email": "Email@studiomint.se",
+    "phone": "0709 999 55 55"
+  },
+  {
+    "id": 4,
+    "name": "Firstname Lastname",
+    "title": "title",
+    "previewImage": "../images/Profilbild_pink.png",
+    "email": "Email@studiomint.se",
+    "phone": "0709 999 55 55"
+  },
+  {
+    "id": 5,
+    "name": "Firstname Lastname",
+    "title": "title",
+    "previewImage": "../images/Profilbild_green.png",
+    "email": "Email@studiomint.se",
+    "phone": "0709 999 55 55"
+  },
+  {
+    "id": 6,
+    "name": "Firstname Lastname",
+    "title": "title",
+    "previewImage": "../images/Profilbild_turquoise.png",
+    "email": "Email@studiomint.se",
+    "phone": "0709 999 55 55"
+  }
+]
